@@ -1,0 +1,9 @@
+<!-- UNI XML DATA STRUCTURE -->
+<data>
+    <shortcuts>
+        <group name="gh" url="http://github.com">
+            <item name="auto" url="https://github.com/wgoodall01/Auto"/>
+			<item name="stuff" url="https://github.com/wgoodall01/Stuff"/>
+        </group>
+    </shortcuts>
+</data>
